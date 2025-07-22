@@ -37,6 +37,7 @@ bash
 Copy
 Edit
 uvicorn main:app --reload
+
 ## 4. Explore the API
 Open your browser at http://127.0.0.1:8000/docs for the interactive Swagger UI.
 
