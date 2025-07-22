@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Fitness API
+# Fitness API
 
 A simple FastAPI project for managing users and workouts, built with SQLAlchemy, SQLite, and modern authentication best practices.  
 This project demonstrates user registration (with hashed passwords), login, and full CRUD operations for workouts.
@@ -20,9 +20,9 @@ This project demonstrates user registration (with hashed passwords), login, and 
 
 ### 1. **Clone the repo**
 
-bash
+```bash
 git clone https://github.com/YOUR-USERNAME/fitness-api.git
-cd fitness-api
+cd fitness-api´´´
 
 
 ## 2. Install requirements
