@@ -1,4 +1,4 @@
-# Fitness API
+# Fitness API Project
 
 A simple FastAPI project for managing users and workouts, built with SQLAlchemy, SQLite, and modern authentication best practices.  
 This project demonstrates user registration (with hashed passwords), login, and full CRUD operations for workouts.
